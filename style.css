@@ -4,30 +4,30 @@
 
 .via-popular-post {
     width:100%; 
-	margin-bottom:10px;
+    margin-bottom:10px;
 }
 .via-popular-thumbnail {
     float:left;
-	margin-right:2%;
-	width:40%;
+    margin-right:2%;
+    width:40%;
 }
 
 .via-popular-content {
     float:left;
-	width:58%;
+    width:58%;
 }
 
 .via-popular-thumbnail img {
     width:100%;
-	height:auto;
-	background:#ffffff;
-	padding:5px;
+    height:auto;
+    background:#ffffff;
+    padding:5px;
 }
 
 .via-popular-content h3 {
     margin:5px 0 10px 0;
-	font-size:15px !important;
-	color:inherit;
+    font-size:15px !important;
+    color:inherit;
 }
 
 .via-popular-content p {
@@ -48,8 +48,8 @@ span.via-popular-date {
 
 .via-side-special  { 
     position:relative;
-	top: 20px;
-	right: 0;
+    top: 20px;
+    right: 0;
 	
 }
 
@@ -59,7 +59,7 @@ span.via-popular-date {
     text-align: center;
     text-transform: uppercase;
     width:125px;
-	font-weight:bold;
-	display: block;
-	position:absolute;
+    font-weight:bold;
+    display: block;
+    position:absolute;
 }
